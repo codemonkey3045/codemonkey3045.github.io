@@ -1,3 +1,8 @@
+# THIS SITE IS UNDER CONSTRUCTION
+#### This is pretty much my attempt at discovering github pages and what I'll like my personal site to have...
+
+<hr>
+
 # A mini bit about me 
 I am a software engineer with  experience developing web apps in Javascript and deploying and handling operations on Amazon Web Services (AWS).  I work on a variety of coding projects, mentor newer developers, and provide oncall support as needed.
 
