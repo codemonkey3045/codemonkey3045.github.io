@@ -20,10 +20,10 @@ I am a software engineer with  experience developing web apps in Javascript and 
       width="200"
   />
 </p>
-![Image](../master/meemo2.png?raw=true)
+![Image](../blob/master/meemo2.png?raw=true)
 
 <img 
-      src="../master/meemo2.png?raw=true"
+      src="../blob/master/meemo2.png?raw=true"
       alt="Meemo pushing himself between me and my computer" 
       width="200"
   />
