@@ -33,7 +33,7 @@ I am a software engineer with  experience developing web apps in Javascript and 
 ### Places I've lived
 * A rural village in northern Portugal -- and yes I totally speak Portuguese.
 * The Newark that's always on the news -- Hint: the state is known for its tomatoes
-* Baltimore - I wish I had expored more, but I was busy with school, work, and what I thought were required extra curriculars for med school. No regrets about any of my time with Circle K though.
+* Baltimore - I wish I had explored more, but I was busy with school, work, and what I thought were required extra curriculars for med school. No regrets about any of my time with Circle K though.
 * NYC - Hmm, super hot summers and super duper cold winters. But I loved the 3am cheesecake options and everything else!
 
    ...and now 
@@ -50,4 +50,4 @@ I am a software engineer with  experience developing web apps in Javascript and 
   />
   
   <br>
-[Click here to download pdf](https://github.com/codemonkey3045/codemonkey3045.github.io/blob/master/resume_catia_goncalves_03_13_2016.pdf)
+  <a href="https://github.com/codemonkey3045/codemonkey3045.github.io/blob/master/resume_catia_goncalves_03_13_2016.pdf?raw=true" target="_blank">Click here to download resume as PDF</a>
