@@ -1,6 +1,9 @@
 # A mini bit about me 
 I am a software engineer with  experience developing web apps in Javascript and deploying and handling operations on Amazon Web Services (AWS).  I work on a variety of coding projects, mentor newer developers, and provide oncall support as needed.
 
+
+<hr>
+
 ### My most recent love
 
 <p align="center">
