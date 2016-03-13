@@ -23,7 +23,7 @@ I am a software engineer with  experience developing web apps in Javascript and 
 ![Image](../blob/master/meemo2.png?raw=true)
 
 <img 
-      src="../blob/master/meemo2.png?raw=true"
+      src="http://github.com/codemonkey3045/username.github.io/blob/master/meemo2.png?raw=true"
       alt="Meemo pushing himself between me and my computer" 
       width="200"
   />
