@@ -15,7 +15,7 @@ I am a software engineer with  experience developing web apps in Javascript and 
       width="200" height="200"
   />
   <img 
-      src="https://github.com/codemonkey3045/username.github.io/blob/master/meemo3.png?raw=true"
+      src="https://github.com/codemonkey3045/username.github.io/blob/master/meemo4.png?raw=true"
       alt="Meemo pushing himself between me and my computer" 
       width="200" height="200"
   />
