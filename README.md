@@ -42,4 +42,6 @@ I am a software engineer with  experience developing web apps in Javascript and 
 * San Francisco, California. It brings back a lot of childhood memories of growing up in Portugal. The weather is AMAZING here. Weather sort of beats all the sparkles NYC has.
 
 
-### 
+### Resume
+
+[Resume.pdf](http://codemonkey3045.github.io/master/resume_catia_goncalves_03_13_2016.pdf)
