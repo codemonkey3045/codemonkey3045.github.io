@@ -1,5 +1,4 @@
 # THIS SITE IS UNDER CONSTRUCTION
-#### This is pretty much my attempt at discovering github pages and what I'll like my personal site to have...
 
 <hr>
 
@@ -44,4 +43,9 @@ I am a software engineer with  experience developing web apps in Javascript and 
 
 ### Resume
 
-[Resume.pdf](http://codemonkey3045.github.io/master/resume_catia_goncalves_03_13_2016.pdf)
+<img 
+      src="https://github.com/codemonkey3045/username.github.io/blob/master/resume_catia_goncalves_03_13_2016.pdf?raw=true"
+      alt="Catia Goncalves Resume 03-13-2016" 
+      width="80%"
+  />
+[Click here to download pdf](https://github.com/codemonkey3045/username.github.io/blob/master/resume_catia_goncalves_03_13_2016.pdf)
