@@ -12,17 +12,17 @@ I am a software engineer with  experience developing web apps in Javascript and 
 
 <p align="center">
    <img 
-      src="https://github.com/codemonkey3045/username.github.io/blob/master/meemo2.png?raw=true"
+      src="https://github.com/codemonkey3045/codemonkey3045.github.io/blob/master/meemo2.png?raw=true"
       alt="Meemo with code behind him" 
       width="200" height="200"
   />
   <img 
-      src="https://github.com/codemonkey3045/username.github.io/blob/master/meemo_and_i.jpeg?raw=true"
+      src="https://github.com/codemonkey3045/codemonkey3045.github.io/blob/master/meemo_and_i.jpeg?raw=true"
       alt="Meemo and I in California" 
       width="200" height="200"
   />
   <img 
-      src="https://github.com/codemonkey3045/username.github.io/blob/master/meemo4.png?raw=true"
+      src="https://github.com/codemonkey3045/codemonkey3045.github.io/blob/master/meemo4.png?raw=true"
       alt="Meemo pushing himself between me and my computer" 
       width="200" height="200"
   />
@@ -44,10 +44,10 @@ I am a software engineer with  experience developing web apps in Javascript and 
 ### Resume
 
 <img 
-      src="https://github.com/codemonkey3045/username.github.io/blob/master/resume_catia_goncalves_03_13_2016.pdf?raw=true"
+      src="https://github.com/codemonkey3045/codemonkey3045.github.io/blob/master/catia_goncalves_resume_short.jpg?raw=true"
       alt="Catia Goncalves Resume 03-13-2016" 
       width="80%"
   />
   
   <br>
-[Click here to download pdf](https://github.com/codemonkey3045/username.github.io/blob/master/resume_catia_goncalves_03_13_2016.pdf)
+[Click here to download pdf](https://github.com/codemonkey3045/codemonkey3045.github.io/blob/master/resume_catia_goncalves_03_13_2016.pdf)
